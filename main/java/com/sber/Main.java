@@ -6,6 +6,7 @@ public class Main {
 
     private static String userName;
     private static int age;
+    private static String surname;
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
